@@ -13,12 +13,6 @@ nav {
     padding-left: 3%;
 }
 
-/* .navbar-brand :hover {
-    font-size:50px;
-    color: rgb(89, 190, 248);
-    -webkit-text-stroke: 2px rgb(108, 238, 255);
-    padding-left: 3%;
-} */
 
 aside {
     margin-top: 5%;
@@ -34,8 +28,4 @@ button {
     border: 0.5px solid rgba(121, 121, 121, 0.404);
     margin-left: 10%;
 
-}
-
-aside {
-    
 }
