@@ -20,9 +20,9 @@ nav {
     padding-left: 3%;
 } */
 
-main {
+aside {
     margin-top: 5%;
-    margin-left: 10%;
+    /* margin-left: 10%; */
 }
 
 button {
@@ -32,13 +32,10 @@ button {
     background-size: 80px 80px;
     background-image: url(2nd-plus.png);
     border: 0.5px solid rgba(121, 121, 121, 0.404);
+    margin-left: 10%;
 
 }
-.circle-btn {
-    border-radius: 50%;
-    width: 80px;
-    height: 80px;
 
-    
+aside {
     
 }
